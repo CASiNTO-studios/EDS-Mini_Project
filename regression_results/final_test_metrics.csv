@@ -1,0 +1,2 @@
+Selected Model,Test Accuracy,Test Balanced Accuracy,Test Macro F1,Ordinal MAE,Ordinal RMSE,Training Rows,Test Rows,Predictor Count,Random State
+Random forest,0.5945945945945946,0.3852657004830918,0.3998649105032084,0.5135135135135135,0.8542421961772491,147,37,25,42

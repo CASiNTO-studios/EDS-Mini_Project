@@ -1,0 +1,64 @@
+Encoded Feature
+platform_Flipkart
+platform_I use multiple platforms
+platform_Meesho
+amz_freq_Monthly
+amz_freq_Rarely
+amz_freq_Weekly
+amz_ui_Sometimes
+"amz_ui_Yes, very overwhelming"
+amz_rent_Never thought about it
+amz_rent_No
+"amz_rent_Yes, would save money"
+amz_coupon_Rarely
+amz_coupon_Sometimes
+amz_coupon_Yes mostly
+"amz_acct_No, I don't mind creating account"
+"amz_acct_Yes, I left without buying"
+"amz_sent_No, stars are enough for me"
+"amz_sent_Yes, that would help a lot"
+"amz_words_No, I prefer reading reviews myself"
+"amz_words_Yes, would save a lot of time"
+"amz_ref_No, I don't usually refer shopping apps"
+"amz_ref_No, I would recommend it anyway"
+"amz_ref_Yes, rewards would motivate me"
+flip_freq_Monthly
+flip_freq_Rarely
+flip_freq_Weekly
+flip_voice_Never used
+flip_rent_Never thought about it
+"flip_rent_No, I prefer buying"
+"flip_rent_Yes, renting is cheaper than buying"
+flip_coupon_Rarely
+flip_coupon_Sometimes
+flip_coupon_Yes mostly
+"flip_guest_No, I don't mind"
+"flip_guest_Yes, registration feels unnecessary"
+"flip_sent_No, ratings are fine"
+"flip_sent_Yes, much more useful than just stars"
+flip_words_No
+"flip_words_Yes, quick and easy to understand"
+"flip_ref_No, I don't usually refer shopping apps"
+"flip_ref_No, I would recommend it anyway"
+"flip_ref_Yes, rewards would motivate me"
+mee_freq_Monthly
+mee_freq_Rarely
+mee_freq_Weekly
+mee_reviews_Reviews are there but not helpful
+mee_reviews_Sometimes
+"mee_reviews_Yes, enough reviews available"
+"mee_sent_No, I read reviews myself"
+"mee_sent_Yes, very helpful"
+mee_words_No
+"mee_words_Yes, saves a lot of time"
+mee_rent_Never thought about it
+mee_rent_No
+"mee_rent_Yes, renting is cheaper than buying"
+mee_login_Sometimes
+"mee_login_Yes, I just wanted to buy fast"
+mee_ui_Okay
+"mee_ui_Poor, needs improvement"
+mee_ui_Very good
+"mee_ref_No, I don't usually refer shopping apps"
+"mee_ref_No, I would recommend it anyway"
+"mee_ref_Yes, rewards would motivate me"

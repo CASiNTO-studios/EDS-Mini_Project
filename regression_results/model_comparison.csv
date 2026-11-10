@@ -1,0 +1,5 @@
+Model,CV Accuracy Mean,CV Accuracy SD,CV Balanced Accuracy Mean,CV Macro F1 Mean,Status
+Majority baseline,0.6397701149425288,0.02160919540229885,0.3333333333333333,0.26003401360544215,OK
+Logistic regression,0.4756321839080459,0.05957705336248447,0.3025341130604288,0.3019532640275674,OK
+Random forest,0.536551724137931,0.08076264832201005,0.33598440545808966,0.3382345713962417,OK
+Ordinal logistic regression,,,,,Skipped: ValueError: setting an array element with a sequence.
